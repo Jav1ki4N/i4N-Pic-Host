@@ -4,7 +4,7 @@ This pic host storages some pics that would be used in my Markdown notes.<br>
 Pic sources: Search Engines, webs, etc.<br>
 ALL pics are not for commercial use.
 
-Uploaded with [PicGo](https://github.com/Molunerfinn/picgo)<br>
+Upload By [PicGo](https://github.com/Molunerfinn/picgo)<br>
 Proxy: [JsDelivr](https://www.jsdelivr.com/?docs=gh)
 
 -----------
